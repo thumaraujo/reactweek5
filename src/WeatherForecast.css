@@ -1,0 +1,25 @@
+/* Updated Weather Forecast */
+.WeatherForecast {
+  text-align: center;
+  margin-top: 20px;
+  color: #34495e;
+}
+
+.WeatherForecast-day {
+  font-weight: 600;
+  color: #2c3e50;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.WeatherForecast-temperature-max {
+  font-size: 20px;
+  color: #2980b9;
+  font-weight: bold;
+}
+
+.WeatherForecast-temperature-min {
+  font-size: 16px;
+  color: #7f8c8d;
+  margin-left: 5px;
+}
