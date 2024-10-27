@@ -18,7 +18,11 @@ export default function App() {
             GitHub
           </a>{" "}
           and hosted on{" "}
-          <a href="" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://github.com/thumaraujo/reactweek5"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Netlify
           </a>
         </footer>
