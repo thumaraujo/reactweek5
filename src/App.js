@@ -10,7 +10,11 @@ export default function App() {
 
         <footer>
           This project was coded by Thuany and is on{" "}
-          <a href="" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://github.com/thumaraujo/reactweek5"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             GitHub
           </a>{" "}
           and hosted on{" "}
