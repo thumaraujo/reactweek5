@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and hosted on{" "}
           <a
-            href="https://github.com/thumaraujo/reactweek5"
+            href="https://app-weatherreact.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
